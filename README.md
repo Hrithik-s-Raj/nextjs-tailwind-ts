@@ -20,7 +20,7 @@ To get started with this template, follow these steps:
 1. Clone the repository:
 
 ```bash
-# Https
+# Https.
 git clone https://github.com/Tittoh/nextjs-tailwind-ts.git
 
 # GitHub CLI
